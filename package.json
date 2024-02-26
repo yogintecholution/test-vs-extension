@@ -3,7 +3,7 @@
   "displayName": "VS GitHub Repo Example",
   "publisher": "YoginTecholution",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.86.0"
   },
