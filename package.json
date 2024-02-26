@@ -1,6 +1,6 @@
 {
-  "name": "vs-githib-repo-example",
-  "displayName": "VS GitHib Repo Example",
+  "name": "vs-gitHub-repo-example",
+  "displayName": "VS GitHub Repo Example",
   "publisher": "YoginTecholution",
   "description": "",
   "version": "0.0.1",
@@ -15,7 +15,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "vs-githib-repo-example.helloWorld",
+        "command": "vs-gitHub-repo-example.helloWorld",
         "title": "Hello World"
       }
     ]

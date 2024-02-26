@@ -8,15 +8,15 @@ export function activate(context: vscode.ExtensionContext) {
 
 	// Use the console to output diagnostic information (console.log) and errors (console.error)
 	// This line of code will only be executed once when your extension is activated
-	console.log('Congratulations, your extension "vs-githib-repo-example" is now active!');
+	console.log('Congratulations, your extension "vs-gitHub-repo-example" is now active!');
 
 	// The command has been defined in the package.json file
 	// Now provide the implementation of the command with registerCommand
 	// The commandId parameter must match the command field in package.json
-	let disposable = vscode.commands.registerCommand('vs-githib-repo-example.helloWorld', () => {
+	let disposable = vscode.commands.registerCommand('vs-gitHub-repo-example.helloWorld', () => {
 		// The code you place here will be executed every time your command is executed
 		// Display a message box to the user
-		vscode.window.showInformationMessage('Hello World from VS GitHib Repo Example! Edit');
+		vscode.window.showInformationMessage('Hello World from VS GitHub Repo Example! Edit');
 	});
 
 	context.subscriptions.push(disposable);
