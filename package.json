@@ -12,6 +12,7 @@
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
+  "icon": "./images/ai_logo.png",
   "contributes": {
     "commands": [
       {
