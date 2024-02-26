@@ -1,6 +1,7 @@
 {
   "name": "vs-githib-repo-example",
   "displayName": "VS GitHib Repo Example",
+  "publisher": "YoginTecholution",
   "description": "",
   "version": "0.0.1",
   "engines": {
